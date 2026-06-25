@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sarover_management_system", "sarover_management_system\sarover_management_system.csproj", "{5B79A8C6-001D-4488-8080-6793E5D1316A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Sarover__APP|Any CPU = Sarover__APP|Any CPU
+		sarover__hotel|Any CPU = sarover__hotel|Any CPU
+		Sarover_Hotel|Any CPU = Sarover_Hotel|Any CPU
+		sarover|Any CPU = sarover|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.Sarover__APP|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.sarover__hotel|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.Sarover_Hotel|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.sarover|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79A8C6-001D-4488-8080-6793E5D1316A}.sarover|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A60614B-C0C4-4BFC-B5D3-7CE4C6E09853}
+	EndGlobalSection
+EndGlobal
